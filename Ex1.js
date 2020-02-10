@@ -59,3 +59,10 @@ function getAddres(elements) {
 
 const res4 = getAddres(aList);
 console.log(res4);
+
+// 5
+
+const sampleChilds = document.querySelector('.sample_class_3').children;
+
+const res5 = getTag(sampleChilds);
+console.log(res5);
