@@ -29,3 +29,18 @@ const classList = [];
 
 const res2 = getClass(sampleEl);
 console.log(res2);
+
+// 3
+
+const sampleList2 = document.querySelectorAll('.sample_class_2');
+
+function getInnerText(elements) {
+    const innerArray = [];
+    for (let i = 0; i < elements.length; i++) {
+        innerArray.push(elements[i].innerText);
+    }
+    return innerArray
+}
+
+const res3 = getInnerText(sampleList2);
+console.log(res3);
