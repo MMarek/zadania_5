@@ -8,3 +8,4 @@ Funkcje zwracające kolejno `tablice`:
  - wypełnione nazwami `klas`
  - wszystkie `teksty` pobrane z elementów 
  - wszystkie `linki`
+ - wszystkie `dzieci` elementu o danej klasie

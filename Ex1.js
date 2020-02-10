@@ -44,3 +44,18 @@ function getInnerText(elements) {
 
 const res3 = getInnerText(sampleList2);
 console.log(res3);
+
+// 4
+
+const aList = document.querySelectorAll('a');
+
+function getAddres(elements) {
+    const aArr = [];
+    for (let i = 0; i < elements.length - 1; i++) {
+        aArr.push(elements[i].getAttribute("href"));
+    }
+    return aArr
+}
+
+const res4 = getAddres(aList);
+console.log(res4);
