@@ -23,3 +23,10 @@ gdy jest `zero elementów`, zwraca wartość logiczną: `false`
 - funkcja z argumentem (który jest `pseudotablicą`). Przekazanie zawartości argumentu do do nowoutworzonej tablicy, oraz 
 zwrócenie tej tablicy.
 - funkcja z `przekazaną` jako `argument` listą klas
+
+#
+### -zad.4
+Zmodyfikowanie listy:
+- co drógi element jest w `zielonym tle`
+- piąty element z listy ma klesę `big`
+- co trzeci ma podkreślenie
