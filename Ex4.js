@@ -49,20 +49,15 @@ ex1HrefEdge.setAttribute("href", "www.edge.com");
 let ex1Chrome = ex1.querySelector('.chrome');
 ex1Chrome.style.width = '100px';
 
+// 2
 
-// ex1Links[0].innerText = 'Chrome';
-//
-// const ex1Chrome = ex1.querySelector('.chrome');
-// ex1Chrome.style.width = '100px';
-//
-// const ex1ImageEdge = ex1.querySelector('.edge');
-// ex1ImageEdge.style.backgroundImage = 'url(assets//egde.png)';
-//
-// ex1Links[1].setAttribute('href', 'https://www.microsoft.com/en-us/windows/microsoft-edge/');
-//
-// const ex1ImageFirefox = ex1.querySelector('.firefox');
-// ex1ImageFirefox.style.backgroundImage = 'url(assets/firefox.png)';
-//
-// ex1Links[2].innerText = 'Firefox';
-//
-// ex1Links[2].setAttribute('href', 'https://www.mozilla.org/en-US/firefox/new/');
+let ex2 = document.querySelector('.exercise.ex2');
+console.log(ex2);
+
+let name = ex2.querySelector('#name');
+let color = ex2.querySelector('#fav_color');
+let meal = ex2.querySelector('#fav_meal');
+
+name.innerText = "Marek Mildner";
+color.innerText = "Black";
+meal.innerText = "Shushi";

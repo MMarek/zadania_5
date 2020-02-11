@@ -31,3 +31,5 @@ Zmodyfikowanie listy:
 - piąty element z listy ma klesę `big`
 - co trzeci ma podkreślenie
 - podpięcie igon oraz linków
+- zapisanie zmiennych przez odpowiednie elementy (spany), 
+a za pomocą `innerText` wypełnienie ich odpowiednimi informacjami
