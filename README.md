@@ -9,3 +9,8 @@ Funkcje zwracające kolejno `tablice`:
  - wszystkie `teksty` pobrane z elementów 
  - wszystkie `linki`
  - wszystkie `dzieci` elementu o danej klasie
+ 
+#
+### -zad.2
+Funkcja zwracająca `sumę dwóch największych liczb z tablicy`. W sytuacji gdy w tablicy jest jedna liczba, `zwraca jedną`, 
+gdy jest `zero elementów`, zwraca wartość logiczną: `false`
