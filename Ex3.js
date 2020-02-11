@@ -21,6 +21,15 @@ for (let i = 0; i < links.length; i++) {
     console.log(links[i].tagName, links[i].className);
 }
 
+// 2
+
+for (let i = 0; i < blocks.length; i++) {
+    console.log(blocks[i].innerText);
+    blocks[i].innerText = 'New div with class blocks / podmiana tekstu :)'
+}
+
+
+
 
 // console.log(homeElement);
 // console.log(childElements);

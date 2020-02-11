@@ -18,4 +18,4 @@ gdy jest `zero elementów`, zwraca wartość logiczną: `false`
 #
 ### -zad.3
 - wypisanie w konsoli wszystkich zmiennych, `pseudotablice` przeiterowane `pętlą for`.
-- 
+- zmiana wartości `innerText` dla dla elementów zmiennej `blocks`
