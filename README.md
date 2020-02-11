@@ -33,3 +33,11 @@ Zmodyfikowanie listy:
 - podpięcie igon oraz linków
 - zapisanie zmiennych przez odpowiednie elementy (spany), 
 a za pomocą `innerText` wypełnienie ich odpowiednimi informacjami
+
+#
+### -zad.5
+`Event`, który po najechaniu na element `parent`, pokazuje element `children`.
+Drugi `Event` chowa element `children` po zjechaniu z niego.
+
+#
+### -zad.6
