@@ -28,7 +28,16 @@ for (let i = 0; i < blocks.length; i++) {
     blocks[i].innerText = 'New div with class blocks / podmiana tekstu :)'
 }
 
+// 3
 
+const superFooter = document.querySelector(".superFooter");
+console.log(superFooter);
+
+function getId(element) {
+    return element.id;
+}
+
+console.log(getId(superFooter));
 
 
 // console.log(homeElement);
