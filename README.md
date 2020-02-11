@@ -20,3 +20,5 @@ gdy jest `zero elementów`, zwraca wartość logiczną: `false`
 - wypisanie w konsoli wszystkich zmiennych, `pseudotablice` przeiterowane `pętlą for`.
 - zmiana wartości `innerText` dla dla elementów zmiennej `blocks`
 - funkcja z przekazanym elementem `superFooter`, pobranie nazwy elementu id z niej oraz jej zwrócenie.
+- funkcja z argumentem (który jest `pseudotablicą`). Przekazanie zawartości argumentu do do nowoutworzonej tablicy, oraz 
+zwrócenie tej tablicy.

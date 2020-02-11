@@ -39,6 +39,18 @@ function getId(element) {
 
 console.log(getId(superFooter));
 
+// 4
+
+function getTags(elements) {
+    let emptyArr = [];
+
+    for (let i = 0; i < elements.length; i++) {
+        emptyArr.push(elements[i].tagName);
+    }
+    return emptyArr;
+}
+
+console.log(getTags(childElements));
 
 // console.log(homeElement);
 // console.log(childElements);
