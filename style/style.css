@@ -1,0 +1,20 @@
+.ex1 .chrome {
+    background-size: contain;
+    background-image: url("../assets/chrome.png");
+    width: 10px;
+    height: 100px;
+}
+
+.ex1 .firefox {
+    background-size: contain;
+    background-image: url("../assets/edge.png");
+    width: 100px;
+    height: 100px;
+}
+
+.ex1 .edge {
+    background-size: contain;
+    background-image: url("../assets/firefox.png");
+    width: 100px;
+    height: 100px;
+}
