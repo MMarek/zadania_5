@@ -27,6 +27,7 @@ zwrócenie tej tablicy.
 #
 ### -zad.4
 Zmodyfikowanie listy:
-- co drógi element jest w `zielonym tle`
+- co drugi element jest w `zielonym tle`
 - piąty element z listy ma klesę `big`
 - co trzeci ma podkreślenie
+- podpięcie igon oraz linków
