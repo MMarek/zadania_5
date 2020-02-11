@@ -52,8 +52,15 @@ function getTags(elements) {
 
 console.log(getTags(childElements));
 
-// console.log(homeElement);
-// console.log(childElements);
-// console.log(banner);
-// console.log(blocks);
-// console.log(links);
+// 5
+
+function getClassInfo(element) {
+    const classList = [];
+
+    for (let i = 0; i < element.classList.length; i++) {
+        classList.push(element.classList[i]);
+    }
+    return classList;
+}
+
+console.log(getClassInfo(banner));

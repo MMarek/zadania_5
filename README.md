@@ -22,3 +22,4 @@ gdy jest `zero elementów`, zwraca wartość logiczną: `false`
 - funkcja z przekazanym elementem `superFooter`, pobranie nazwy elementu id z niej oraz jej zwrócenie.
 - funkcja z argumentem (który jest `pseudotablicą`). Przekazanie zawartości argumentu do do nowoutworzonej tablicy, oraz 
 zwrócenie tej tablicy.
+- funkcja z `przekazaną` jako `argument` listą klas
