@@ -41,3 +41,4 @@ Drugi `Event` chowa element `children` po zjechaniu z niego.
 
 #
 ### -zad.6
+Button, z podpiętym `Eventem` który po kliknięciu w konsoli wyświetla wyraz `"It's Working!"`

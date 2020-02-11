@@ -23,10 +23,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
 // 1
 
-const menu = document.querySelector('#menu');
 const paragraf = document.querySelector('p');
-
-menu.classList.add('menu');
 paragraf.innerHTML = "First paragraf - EXERCISE 5/1 :)";
 
 // 2
+
+const button = document.querySelector('#mainBtn');
+console.log(button);
+
+button.addEventListener('click', function () {
+    console.log("It's Working!");
+});
