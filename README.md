@@ -1,4 +1,4 @@
-### Kolejny materiał do nauki.
+### Kolejny materiał do nauki. Znaleźć można EVENTY, działania na DOM i nie tylko :)
 ##
 
 ### -zad.1
@@ -42,3 +42,7 @@ Drugi `Event` chowa element `children` po zjechaniu z niego.
 #
 ### -zad.6
 Button, z podpiętym `Eventem` który po kliknięciu w konsoli wyświetla wyraz `"It's Working!"`
+
+#
+### -zad.7
+Buttony z podpiętymi `Eventami`, kliknięcie każdego powoduje naliczenie kolejnej liczby mna liczniku.
