@@ -1,4 +1,4 @@
-console.log('EXERCISE 1:');
+console.log('EXERCISE 2:');
 
 function biggestSumOfTwoElements(array) {
     let sortedArr = array.sort();
