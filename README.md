@@ -46,3 +46,7 @@ Button, z podpiętym `Eventem` który po kliknięciu w konsoli wyświetla wyraz 
 #
 ### -zad.7
 Buttony z podpiętymi `Eventami`, kliknięcie każdego powoduje naliczenie kolejnej liczby mna liczniku.
+
+#
+Zapraszam na: https://mmarek.github.io/zadania_5/index.html `z inspektorem` do prześledzenia całości.
+#
