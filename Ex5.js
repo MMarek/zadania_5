@@ -35,22 +35,3 @@ button.addEventListener('click', function () {
     console.log("It's Working!");
 });
 
-// 3
-
-const  buttons = document.querySelectorAll('button');
-console.log(buttons);
-
-const span = document.querySelectorAll('span');
-console.log(span);
-
-buttons[0].addEventListener('click', function () {
-    span[0].innerText++
-});
-
-buttons[1].addEventListener('click', function () {
-    span[1].innerText++
-});
-
-buttons[2].addEventListener('click', function () {
-    span[2].innerText++
-});
